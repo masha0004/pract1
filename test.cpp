@@ -1,1 +1,1 @@
-print("Hello! My name is Masha.")
+print("Hello! My name is Masha. How old are you?")
